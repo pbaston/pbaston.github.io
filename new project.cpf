@@ -1,0 +1,13 @@
+NWCR
+Version=4
+D:\Web Sites\nwcr
+http://
+
+
+07/09/2021 12:05:00
+NO
+NO
+YES
+YES
+*.html;*.htm;*.vtm;*.vtml;*.asp;*.css;*.shtml;*.phtml;*.php;*.php3;*.xml;*.xsl;*.cfm;*.cfml;*.txt;*.pl;*.cgi;*.snp;*.js;*.vb;*.vbs;*.bas*.mid;*.wav;*.au;*.ra;*.ram;*.bmp;*.gif;*.jpg;*.jpeg;*.png;*.exe;
+YES
